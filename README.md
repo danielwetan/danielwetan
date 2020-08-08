@@ -5,10 +5,18 @@ I'm a Software Engineer that mainly focus on:
   [x] <strong>Go</strong>
 <br>
   [x] <strong>NodeJS</strong>
+<br><br>
+  [x] <strong>Docker</strong>
 <br>
-  [x] <strong>React & React Native</strong>
+  [x] <strong>AWS</strong>
 <br>
-  [x] <strong>Sql</strong>
+  [x] <strong>Redis</strong>
+<br>
+  [x] <strong>SQL</strong>
+<br><br>
+  [x] <strong>ReactJs</strong>
+<br>
+  [x] <strong>React Native</strong>
 <br><br>
 I'm also a language learner, I learn <em>English</em>, <em>Français</em>, etc
 <br>
