@@ -6,9 +6,9 @@ I'm a Software Engineer that mainly focus on:
 <br>
   [x] <strong>NodeJS</strong>
 <br><br>
-  [x] <strong>Docker</strong>
-<br>
   [x] <strong>AWS</strong>
+<br>
+  [x] <strong>Docker</strong>
 <br>
   [x] <strong>Redis</strong>
 <br>
