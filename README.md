@@ -8,12 +8,3 @@ I'm also a language learner, I learn <em>English</em>, <em>Français</em>, etc
 </samp>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielwetan&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-
----
-
-**Full Stack Project**
-
-[![LesLivres](https://github-readme-stats.vercel.app/api/pin/?username=danielwetan&repo=leslivres&show_owner=true)](https://github.com/danielwetan/leslivres)
-<br>
-[![Bonjour](https://github-readme-stats.vercel.app/api/pin/?username=danielwetan&repo=bonjour-mobile&show_owner=true)](https://github.com/danielwetan/bonjour)
