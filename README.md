@@ -1,6 +1,6 @@
 <samp>Halo, Hello, Bonjour,مرحبا! :wave:
 <br><br>
-I'm a Software Engineer that mainly focus on **Javascript**,**Python** and **Go**.
+I'm a Software Engineer that mainly focus on **Javascript** and **Go**.
 <br>
 I'm also a language learner, I learn <em>English</em>, <em>Français</em>, etc
 <br>
