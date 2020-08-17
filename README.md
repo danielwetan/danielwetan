@@ -4,7 +4,7 @@ I'm a Software Engineer that mainly focus on:
 <br>
   [x] <strong>Go</strong>
 <br>
-  [x] <strong>Javascript</strong>
+  [x] <strong>NodeJs</strong>
 <br><br>
   [x] <strong>AWS</strong>
 <br>
