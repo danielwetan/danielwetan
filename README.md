@@ -1,6 +1,6 @@
 <samp>Halo, Hello, Bonjour,مرحبا! :wave:
 <br><br>
-I'm a Software Engineer, my tech stacks is:
+I'm a Software Engineer that mainly focus on:
 <br>
   [x] <strong>Go</strong>
 <br>
