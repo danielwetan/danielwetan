@@ -5,6 +5,8 @@ I'm a Software Engineer that mainly focus on:
   [x] <strong>Go</strong>
 <br>
   [x] <strong>NodeJs</strong>
+<br>
+  [x] <strong>Ruby on Rails</strong>
 <br><br>
   [x] <strong>AWS</strong>
 <br>
