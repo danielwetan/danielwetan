@@ -4,9 +4,9 @@ I'm a Software Engineer that mainly focus on:
 <br>
   [x] <strong>Go</strong>
 <br>
-  [x] <strong>NodeJs</strong>
+  [x] <strong>Javascript</strong>
 <br>
-  [x] <strong>Ruby on Rails</strong>
+  [x] <strong>Ruby</strong>
 <br><br>
   [x] <strong>AWS</strong>
 <br>
