@@ -18,7 +18,7 @@ I'm a Software Engineer that mainly focus on:
 <br><br>
   [x] <strong>ReactJs</strong>
 <br>
-  [x] <strong>React Native</strong>
+  [x] <strong>Jekyll</strong>
 <br><br>
 I'm also a language learner, I learn <em>English</em>, <em>Français</em>, etc
 <br>
