@@ -1,26 +1,19 @@
-<samp>Halo, Hello, Bonjour,مرحبا! :wave:
-<br><br>
-I'm a Software Engineer that mainly focus on:
-<br>
-  [x] <strong>Go</strong>
-<br>
-  [x] <strong>Javascript</strong>
-<br>
-  [x] <strong>Ruby</strong>
-<br><br>
-  [x] <strong>AWS</strong>
-<br>
-  [x] <strong>Docker</strong>
-<br>
-  [x] <strong>Redis</strong>
-<br>
-  [x] <strong>SQL</strong>
-<br><br>
-  [x] <strong>ReactJs</strong>
-<br>
-  [x] <strong>Jekyll</strong>
-<br><br>
-I'm also a language learner, I learn <em>English</em>, <em>Français</em>, etc
-<br>
-  It's nice to talk further with you :point_right: <em>danielwetan.io@gmail.com</em>
+<samp>
+A person who passionate about learning, interested in logic and problem solving, have spent thousands of coding hours. Experienced in making production level application. Able to participate in software development and deployment.
+<br></br>
+<b>Projects</b>
+
+- REST API
+- Website
+- Single Page Application 
+- Content Management System
+- Chrome Extension
+
+</br>
+<b>Social</b>
+
+- email: danielwetan.io@gmail.com
+- medium: [medium.com/danielwetan](medium.com/danielwetan)
+- instagram: [instagram.com/danielwetan](instagram.com/danielwetan)
+- linkedin: [linkedin.com/in/danielwetan](linkedin.com/in/danielwetan)
 </samp>
